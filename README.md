@@ -13,3 +13,7 @@ This application is build for DroneDeploy users to generate a PDF of the current
 - Make sure to have your own example map. Futher instructions here ( https://dronedeploy.gitbooks.io/dronedeploy-apps/content/how-to-upload-an-example-project.html )
 - Press the button 'Generate PDF'
 - Let the PDF download and Enjoy the map
+
+## Style Guide
+
+- AirBnb Style guide
