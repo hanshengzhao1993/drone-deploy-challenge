@@ -1,4 +1,4 @@
-### DroneDeploy PDF Generator
+## DroneDeploy PDF Generator
 
 This application is build for DroneDeploy users to generate a PDF of the current map.
 
